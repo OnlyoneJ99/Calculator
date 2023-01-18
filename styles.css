@@ -1,0 +1,39 @@
+.main-container {
+    margin-top: 40px;
+}
+
+.bg-secondary {
+    background-color: #828cad;
+    height: 40px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: right;
+    color: white;
+    border: 0.5px solid whitesmoke;
+
+    
+    
+}
+
+.big-info {
+    background-color: #4568d9;
+    color: white;
+    height: 50px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 0.5px solid whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.big-warning {
+    background-color: #071d63;
+    height: 50px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    border: 0.5px solid whitesmoke;
+    padding: 10px;
+}
